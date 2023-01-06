@@ -2,3 +2,4 @@ build
 ClipboardDetector.egg-info
 dist
 venv
+__pycache__/

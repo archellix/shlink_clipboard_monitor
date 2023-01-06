@@ -1,0 +1,3 @@
+#  NDA Clipboard detector
+
+## Setup
